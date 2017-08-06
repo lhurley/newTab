@@ -63,7 +63,7 @@ body {
 	pointer-events: none;
   	-webkit-user-select: none;
 	margin: 0 auto;
-	background: linear-gradient(to right, #f7d0cd , #f7473b);
+	background: linear-gradient(to right, white , #f7473b);
 	text-align: center;
 	max-width: 1299px;
 }
